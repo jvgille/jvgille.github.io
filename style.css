@@ -1,0 +1,21 @@
+body {
+    background-color: #FAFAFA;
+}
+
+h1 {
+    color: darkgrey;
+	text-align: center;
+	font-family: cambria;
+}
+h2 {
+    color: black;
+    margin-left: 30px;
+	border-left: 6px solid red;
+	background-color: #EEEEEE;
+	font-family: verdana;
+}
+p {
+    color: #333333;
+    margin-left: 40px;
+	font-family: verdana;
+}
